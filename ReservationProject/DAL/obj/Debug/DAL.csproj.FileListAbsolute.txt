@@ -1,0 +1,9 @@
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\bin\Debug\DAL.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\bin\Debug\DAL.pdb
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\bin\Debug\Types.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\bin\Debug\Types.pdb
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\obj\Debug\DAL.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\DAL\obj\Debug\DAL.pdb

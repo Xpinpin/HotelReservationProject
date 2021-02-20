@@ -1,0 +1,6 @@
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Model\bin\Debug\Model.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Model\bin\Debug\Model.pdb
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Model\obj\Debug\Model.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Model\obj\Debug\Model.pdb

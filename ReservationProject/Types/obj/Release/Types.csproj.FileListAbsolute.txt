@@ -1,0 +1,5 @@
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Types\bin\Release\Types.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Types\bin\Release\Types.pdb
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Types\obj\Release\Types.csproj.CoreCompileInputs.cache
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Types\obj\Release\Types.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Types\obj\Release\Types.pdb

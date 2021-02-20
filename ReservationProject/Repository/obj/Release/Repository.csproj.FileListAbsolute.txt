@@ -1,0 +1,11 @@
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\bin\Release\Repository.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\bin\Release\Repository.pdb
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\bin\Release\DAL.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\bin\Release\Types.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\bin\Release\DAL.pdb
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\bin\Release\Types.pdb
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\obj\Release\Repository.csprojAssemblyReference.cache
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\obj\Release\Repository.csproj.CopyComplete
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\obj\Release\Repository.dll
+D:\Fall 2020\N_tier\Project\project-Xpinpin\ReservationProject\Repository\obj\Release\Repository.pdb
